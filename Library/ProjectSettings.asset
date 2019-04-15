@@ -618,10 +618,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 33885a2d-c292-4aee-87b4-3c5ba8b787c0
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: Bubble Shooter
-  organizationId: pattyxhwang
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
